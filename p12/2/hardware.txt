@@ -1,0 +1,3 @@
+Record 	 Tool name 	 Quantity 	 Cost
+2       ghghghgh         56             12.000000      
+5       rere             23             67.000000      

@@ -1,0 +1,4 @@
+Record 	 Tool name 		 Quantity 		 Cost
+ 2       ghghghgh         56             12.000000       
+
+ 5       salam            23             56.000000       
