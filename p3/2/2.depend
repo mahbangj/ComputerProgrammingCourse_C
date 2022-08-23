@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539891504 source:d:\tamrin c\3\2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

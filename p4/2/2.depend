@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540411326 source:d:\tamrin c\4\2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
